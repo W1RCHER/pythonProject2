@@ -4,3 +4,5 @@ def bobr():
 
 
 print(bobr())
+a = "bobr"
+print(a)
