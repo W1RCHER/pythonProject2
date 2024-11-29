@@ -4,5 +4,5 @@ def bobr():
 
 
 print(bobr())
-a = "bobr"
+a = "supercode"
 print(a)
